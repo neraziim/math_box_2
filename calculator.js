@@ -13,8 +13,8 @@ const multiply =(a,b)=>{
 };
 
 //나눗셈 유료버전
+//나눗셈 무료버전
 //type (x: number, y: number) -> number;
 const divide = (a, b) => {
-  if (b=== 0) return;
   return a/b;
 };
