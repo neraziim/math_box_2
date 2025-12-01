@@ -12,7 +12,7 @@ const multiply =(a,b)=>{
   return a*b;
 };
 
-//나눗셈
+//나눗셈 무료버전
 //type (x: number, y: number) -> number;
 const divide = (a, b) => {
   return a/b;
